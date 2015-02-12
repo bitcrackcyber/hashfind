@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-  wifite
+  hashfind
 
     author: Dimitri Fousekis (@rurapenthe0)
     author: @m3g9tr0n
